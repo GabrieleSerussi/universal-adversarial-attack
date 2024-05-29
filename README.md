@@ -14,7 +14,7 @@ The main changes compared to the original version are:
 2. the attack on the estimate of rotation
 3. the integration of momentum in the optimizer
 
-Overall, the patch achieves a $214\%$ mean RMS adversarial to clean ratio.
+Overall, the patch achieves a $214$% mean RMS adversarial to clean ratio.
 
 Please see the [report](report.pdf) for a complete discussion. 
 ### Guidelines to reproduce the results
