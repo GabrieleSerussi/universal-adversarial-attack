@@ -6,7 +6,7 @@
 ![TartanVO internal structure](TartanVO_structure.jpeg)
 *The internal structure of TartanVO, the attacked visual odometry model*
 
-This repository contains the code to train, evaluate and test a universal adversarial patch on the visual odometry model TartanVO. The code is based on the original code of the paper "Physical Passive Patch Adversarial Attacks on Visual Odometry Systems" (https://arxiv.org/abs/2207.05729). The original code can be found at the following link:
+This repository contains the code to train, evaluate and test a universal adversarial patch on the visual odometry model TartanVO. This code is based on the original code of the paper "Physical Passive Patch Adversarial Attacks on Visual Odometry Systems" (https://arxiv.org/abs/2207.05729) and it proposes several modifications. The original code can be found at the following link:
 https://github.com/patchadversarialattacks/patchadversarialattacks
 
 The main changes compared to the original version are:
